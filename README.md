@@ -1,10 +1,10 @@
-## 🚀 Automação de Testes - Lista 05 Iterasys
+## 🚀 Automação de testes - Lista 05 Iterasys
 
 Este repositório foi criado para uma atividade do curso Iterasys, desenvolvido do zero no VSCode utilizando Java, JUnit e Selenium.
 
 ---
 
-### 🛠️ Tecnologias Utilizadas
+### 🛠️ Tecnologias utilizadas
 
 - ☕ Java
 - ✅ JUnit
@@ -12,7 +12,7 @@ Este repositório foi criado para uma atividade do curso Iterasys, desenvolvido 
 
 ---
 
-### Testes Realizados:
+### Testes realizados:
 
 - O código está testando uma série de cenários de login com diferentes combinações de dados (dados em branco, dados incorretos e dados corretos).
 
